@@ -23,4 +23,4 @@ Example:
     x = 5
     print(type(x))
 
-datatypes program is there in the folder 'program.py' file name is 'datatypes.py'  you can check out there...!!'''
+programs on datatypes there in the folder 'program.py' file name is 'datatypes.py'  you can check out there...!!'''
